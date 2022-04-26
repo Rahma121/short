@@ -1,0 +1,37 @@
+<html>
+
+<head> 
+	<!-- i "head" skriver vi ting som vi skal fortelle om, men vises ikke. -->
+	<!-- Her er det et kommentar som ikke vises i skjermen-->
+	
+	<title> tittelen på nettsiden </title>
+</head>
+
+<body>
+	<!-- det som vi skriver i "body" vil vises på skjermen -->
+	<h1> Test </h1>
+
+	<p> <a href="#her"> Her</a> <em>kan</em> vi <strong>skrive</strong> et avsnitt.</p>
+<hr>
+	<!-- hvis vi trykker på linken overst skal den veilede oss her: -->
+	<h3 id="her"> her er linken</h3>
+<hr>
+	
+	<P> Mat liste: </p>
+
+<ol>
+	<li> Eplet </li>
+	<li> Juice </li>
+
+</ol>
+<style>
+.test {
+width: 500px;
+height: 300px;
+}
+</style>
+	<img src= "Mat.jpg" alt= "mat" width="500" height="300">
+
+
+</body>
+</html> 
